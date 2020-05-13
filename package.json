@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API Documentation",
+  "main": "index.js",
+  "scripts": {
+    "generate-docs": "./node_modules/apidoc/bin/apidoc -i ../ -o docs/ -f \"routes/.*\\.js$\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EVNotify/API.git"
+  },
+  "author": "GPlay97",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/EVNotify/API/issues"
+  },
+  "homepage": "https://github.com/EVNotify/API#readme",
+  "dependencies": {
+    "apidoc": "^0.22.1"
+  }
+}
