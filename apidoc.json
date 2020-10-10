@@ -1,0 +1,14 @@
+{
+    "name": "EVNotify API v3 documentation",
+    "version": "0.0.1",
+    "description": "Documentation for the REST api access provided by EVNotify of upcoming v3 generation",
+    "title": "EVNotify API v3 documentation",
+    "url": "https://api.evnotify.de",
+    "sampleUrl": "https://api.evnotify.de",
+    "template": {
+        "forceLanguage": "en",
+        "withCompare": true,
+        "withGenerator": true,
+        "aloneDisplay": false
+    }
+}
