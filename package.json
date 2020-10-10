@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/EVNotify/API#readme",
   "dependencies": {
-    "apidoc": "^0.22.1"
+    "apidoc": "^0.25.0"
   }
 }
